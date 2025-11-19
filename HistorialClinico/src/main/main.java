@@ -7,12 +7,7 @@ import service.HistorialServiceImpl;
 import service.PacienteServiceImpl;
 
 /**
- * @Grupo: 50 
- * @Alumnos: 
- * @Alex Nahuel Austin-Comision 17
- * @Cristian Gabriel Aguirre-Comision 6
- * @Cain Cabrera Bertilazzi-Comision 11
- * @Leonel Jesus Aballay-Comision 17
+ * @Cain
  */
 
 public class main {
